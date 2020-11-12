@@ -1,0 +1,144 @@
+*************************************************************
+FileName = mdap4.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\matrix\matrix
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\profile
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\stephdr
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\topoverlay\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\topoverlay\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\toppaste\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\toppaste\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\topsolder\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\topsolder\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\top\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\top\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\plane1\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\plane1\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mid1\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mid1\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\bottom\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\bottom\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\bottomsolder\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\bottomsolder\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\bottompaste\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\bottompaste\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\bottomoverlay\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\bottomoverlay\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\keepout\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\keepout\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mechanical1\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mechanical1\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mechanical2\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mechanical2\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mechanical13\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mechanical13\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mechanical15\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\mechanical15\attrlist
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\steps\pcb\eda\data
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\s165.3543_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval29x11_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval29x11_90_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval29x11_180_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval29x11_270_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\s157.4803_90_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\s176.063_90_offset11.2205x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval33.4646x11.0236_180_offset11.2205x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval33.4646x11.0236_90_offset11.2205x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval33.4646x11.0236_offset11.2205x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval33.4646x11.0236_270_offset11.2205x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval29.2x11.2_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval29.2x11.2_90_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval29.2x11.2_180_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval29.2x11.2_270_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\s153.4803_90_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval25x7_90_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval25x7_180_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval25x7_270_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval25x7_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval37x19_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval37x19_90_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval37x19_180_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval37x19_270_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\s165.4803_90_offset9x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\s187.0866_90_offset11.2205x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval44.4882x22.0472_180_offset11.2205x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval44.4882x22.0472_90_offset11.2205x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval44.4882x22.0472_offset11.2205x0\features
+
+Generated File : D:\Work\mdap\Altium\MDAP\Project Outputs for MDAP\ODB\odb\symbols\oval44.4882x22.0472_270_offset11.2205x0\features
+

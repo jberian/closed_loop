@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: mdap4.PcbDoc   27/12/2014  07:36:49 p.m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : mdap4-RoundHoles.TXT
+ASCII SlotHoles File : mdap4-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          249              25.36 Inch (644.02 mm)
+T2        27.56mil (0.70002mm)     Round          2                0.19 Inch (4.85 mm)
+T3        27.56mil (0.70002mm)     Slot           2                285.09 Inch (7241.25 mm)
+T4        35.43mil (0.89992mm)     Round          2                0.10 Inch (2.54 mm)
+T5        39.37mil (1mm)           Round          3                0.22 Inch (5.59 mm)
+---------------------------------------------------------------------------
+Totals                                            258              310.95 Inch (7898.25 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

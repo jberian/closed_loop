@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Powercell)(type KiCad)(uri "$(KIPRJMOD)/Powercell.pretty")(options "")(descr ""))
+  (lib (name Wixel)(type KiCad)(uri "$(KIPRJMOD)/Wixel.pretty")(options "")(descr ""))
+  (lib (name CC1111_USB_EVK)(type KiCad)(uri "$(KIPRJMOD)/CC1111_USB_EVK.pretty")(options "")(descr ""))
+  (lib (name HM10)(type KiCad)(uri "$(KIPRJMOD)/HM10.pretty")(options "")(descr ""))
+)

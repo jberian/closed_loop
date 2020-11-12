@@ -1,0 +1,55 @@
+Field=Quantity~Integer~Quantity~65|Field=Description~String~Description~137|Field=Value~String~Value~110|Field=Designator~String~Designator~137|Field=Footprint~String~Footprint~137|Field=PN~String~PN~110|Field=FARNELL~String~FARNELL~110|Field=SP~String~SP~110|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MDAP.PrjPcb|ReportField=ProjectFullPath~D:\Work\mdap\Altium\MDAP\MDAP.PrjPcb|ReportField=Title~Bill of Materials For Project [MDAP.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~152|ReportField=ReportTime~03:51:18 p.m.|ReportField=ReportDate~30/11/2014|ReportField=ReportDateTime~30/11/2014 03:51:18 p.m.|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~30/11/2014|ReportField=CurrentTime~12:26:53 p.m.|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Work\mdap\Altium\MDAP\TOP.SchDoc|ReportField=DocumentName~TOP.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~30/11/2014|ReportField=Organization~|ReportField=ProjectName~MDAP.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~MDAP.PrjPcb|ReportField=DataSourceFullPath~D:\Work\mdap\Altium\MDAP\MDAP.PrjPcb
+2|Antenna single ended IIFA, 2450 MHz||A200, A300|antenna_IIFA_1|||
+6|Capacitor|220pF|C100, C101, C200, C201, C302, C303|0402||2426879|
+18|Capacitor|100nF|C102, C103, C104, C105, C107, C202, C203, C204, C205, C207, C304, C305, C306, C307, C318, C320, C400, C406|0402||2309011|
+5|Capacitor|2u2|C106, C108, C206, C208, C308|C0805||1759416|
+4|Capacitor|100pF|C109, C112, C210, C211|0402||2426878|
+2|Capacitor|1.5pF|C110, C115|0402||1828869|
+6|Capacitor|1pF|C111, C209, C212, C310, C311, C313|0402||1611944|
+1|Capacitor|3.3pF|C113|0402||2210780|
+1|Capacitor|N.M.|C114|0402|||
+7|Capacitor|15pF|C116, C118, C215, C217, C314, C316, C402|0402||2218840|
+6|Capacitor|12pF|C117, C119, C216, C218, C315, C317|0402||2210762|
+1|Capacitor|1.8nF|C213|0402||1865457|
+1|Capacitor|1.5nF|C214|0402||2210797|
+2|Capacitor|47pF|C300, C301|0402||1758959|
+2|Capacitor|18pF|C309, C312|0402||1758947|
+3|Capacitor|1uF|C319, C403, C407|C0805, 0805, 0805||2426951|
+1|Capacitor|10nF|C401|0402||1650807|
+2|Capacitor|4.7uF|C404, C405|0805||1759414|
+4|Typical RED, GREEN, YELLOW, AMBER GaAs LED|Rojo|D1, D3, D5, D400|led_0805||2099236|SP-C2286
+4|Typical RED, GREEN, YELLOW, AMBER GaAs LED|Verde|D2, D4, D6, D401|led_0805||2290331|SP-C2292
+1|Generic Antenna||E100|Johanson_0868AT43A0020|0868AT43A0020E|1885493|
+1|USB 2.0, Right Angle, SMT, B Type, Receptacle, 5 Position, Black||J1|USB_C10418|||
+4|Inductor|102, 102, 102, 1nH|L100, L200, L300, L302|0402-A||1669624|
+2|Inductor|18nH|L101, L107|0402-A||2103101|
+5|Inductor|12nH|L102, L103, L104, L106, L108|0402-A||2103098|
+1|Inductor|1.8nH|L105|0402-A||1669627|
+3|Inductor|1.2nH|L201, L202, L203|0402-A||1704133|
+2|Inductor|2nH|L301, L304|0402-A||2103067|
+1|Inductor|3nH|L303|0402-A||2103077|
+3|Header, 3-Pin, Dual row||P1, P2, P3|HDR2X3|||
+1|Header, 2-Pin||P400|MHDR1X2|||
+6|Resistor|N.M.|R1, R6, R7, R405, R407, R412|J1-0603|||
+6|Resistor|270|R2, R3, R4, R5, R8, R9|J1-0603||2331719|
+2|Resistor|47K|R10, R11|J1-0603||2331749|
+3|Resistor|0R N.M., 0R, 0R|R12, R404, R413|J1-0603||2309106|
+4|Resistor|10K|R100, R200, R300, R409|J1-0603||2333520|
+3|Resistor|56K|R101, R202, R305|J1-0603||2331750|
+3|Resistor|1K5|R301, R400, R402|J1-0603||2331729|
+2|Resistor|33|R302, R303|J1-0603||2331705|
+4|Resistor|100K|R401, R403, R414, R415|J1-0603||2331753|
+1|Resistor|44K2|R406|J1-0603||1785891|
+1|Resistor|30K1|R408|J1-0603||1527635|
+1|Resistor|3K06|R410|J1-0603||1527525|
+1|Resistor|1K74|R411|J1-0603||2116703|
+1|Switch||S1|mhdr1x2|||
+1|Single chip transceiver||U100|QLP36_4_4 (Reflow)|CC1110F32RHHR|2422916|
+1|Single chip transceiver||U200|QLP36_4_4 norteam silk (Reflow)|CC2510F16RSP|1549254|
+1|Single chip BLE||U300|QFN40_RHA (DATASHEET)|CC2540F256RHAT|1862837RL|
+1|USB Friendly 0.5 A Li+ Charger with Dynamic Power Management, 10.5 V OVP, 4.3 V, -40 to 85 degC, 16-pin QFN (RGT), Green (RoHS & no Sb/Br)||U400|RGT16-1700X1700TP|BQ24232RGTT |2383064|
+1|||U401|SOT26A-6M|TPS79301DBVR|1460960|
+1|Push Button On/Off Controller||U402|DDB8|LTC2950CDDB-1|1673537|
+2|Crystal Oscillator|26MHz|Y100, Y200|xtal_3225||2101340|SP-C23363
+3|Crystal Oscillator|32.768KHz|Y101, Y201, Y301|xtal_3215||2449398|SP-C14473
+1|Crystal Oscillator|32MHz|Y300|xtal_3225||1842072|SP-C9009

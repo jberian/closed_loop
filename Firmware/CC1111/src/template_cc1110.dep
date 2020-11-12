@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2764442161</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\bleComms.c</file>
+      <file>$PROJ_DIR$\controlLoop.c</file>
+      <file>$PROJ_DIR$\interrupts.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Exe\mDrip_v1.33_Alexia.hex</file>
+      <file>$PROJ_DIR$\bleComms.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Exe\mDrip_v1.33_Simon_2541559.hex</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Exe\mDrip_v1.33_Simon_2681974.hex</file>
+      <file>$PROJ_DIR$\freqManagement.h</file>
+      <file>$PROJ_DIR$\hal_cc8051.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Exe\mDrip_v1.33_Jesus.hex</file>
+      <file>$PROJ_DIR$\ioCCxx10_bitdef.h</file>
+      <file>$PROJ_DIR$\dataProcessing.h</file>
+      <file>$PROJ_DIR$\medtronicRF.h</file>
+      <file>$PROJ_DIR$\pumpCommands.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Exe\mDrip_v1.33_Susana.hex</file>
+      <file>$PROJ_DIR$\hal_types.h</file>
+      <file>$PROJ_DIR$\timingController.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Exe\xDrip_v1.33.apk</file>
+      <file>$PROJ_DIR$\controlLoop.h</file>
+      <file>$PROJ_DIR$\globals.h</file>
+      <file>$PROJ_DIR$\crc_4b6b.h</file>
+      <file>$PROJ_DIR$\hal_defs.h</file>
+      <file>$PROJ_DIR$\constants.h</file>
+      <file>$PROJ_DIR$\init.h</file>
+      <file>$PROJ_DIR$\medtronicRF.c</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\crc_4b6b.r51</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\bleComms.r51</file>
+      <file>$TOOLKIT_DIR$\inc\ioCC1111.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\medtronicRF.r51</file>
+      <file>$PROJ_DIR$\smartRecovery.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\freqManagement.pbi</file>
+      <file>$PROJ_DIR$\lnk51ew_cc1111F32_noPM23.xcl</file>
+      <file>$PROJ_DIR$\mDrip.c</file>
+      <file>$PROJ_DIR$\interrupts.c</file>
+      <file>$PROJ_DIR$\crc_4b6b.c</file>
+      <file>$PROJ_DIR$\smartRecovery.c</file>
+      <file>$PROJ_DIR$\timingController.c</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\crc_4b6b.pbi</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\init.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\ioCC1110.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\interrupts.pbi</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\bleComms.pbi</file>
+      <file>$PROJ_DIR$\freqManagement.c</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\medtronicRF.pbi</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\init.r51</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\pumpCommands.pbi</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Exe\mDrip.hex</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\timingController.pbi</file>
+      <file>$PROJ_DIR$\pumpCommands.c</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\timingController.r51</file>
+      <file>$PROJ_DIR$\dataProcessing.c</file>
+      <file>$PROJ_DIR$\init.c</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\mDrip.pbi</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\template_cc1110.pbd</file>
+      <file>$PROJ_DIR$\mDrip\Debug\List\mDrip.html</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl-pli-nlxd-1e16x01.r51</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\interrupts.r51</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\smartRecovery.pbi</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Exe\mDrip.d51</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\mDrip.r51</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\dataProcessing.pbi</file>
+      <file>$PROJ_DIR$\hal_board.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\dataProcessing.r51</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\smartRecovery.r51</file>
+      <file>$PROJ_DIR$\hal_uart.h</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\controlLoop.pbi</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\freqManagement.r51</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\pumpCommands.r51</file>
+      <file>$PROJ_DIR$\mDrip\Debug\Obj\controlLoop.r51</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\bleComms.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 26 68 25 62 66 44 56 59 28 67 63 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 19 4 16 13 39 22 2 7 12 11 10 15</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 10 39 4 22 19 15 2 16 7 23 12 13 11 1 18 20 34 50 42 51 21 8 33 32 29 61 27 64 24 48 35 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\controlLoop.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 4 11 20 18 13 23 22 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 58 54 46</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\medtronicRF.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 22 12 2 7 15 39 20 19 4 13 29 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mDrip.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 12 13 22 61 11 15 23 2 29 64 16 7 21 8 20 27 39</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\interrupts.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 2 39 4 7 15 10 20 12 16 23 13 22 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\crc_4b6b.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\smartRecovery.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\timingController.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 16 13 19 12 7 22 39 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\freqManagement.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pumpCommands.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 23 20 7 15 19 12 13 4 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\dataProcessing.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 19 18 4 16 20 22 39 2 11 13 12 10 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 15 39 8 19 21 10 22 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mDrip\Debug\Exe\mDrip.d51</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 54 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 31 26 68 25 62 66 44 56 59 28 67 63 49 55</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+
